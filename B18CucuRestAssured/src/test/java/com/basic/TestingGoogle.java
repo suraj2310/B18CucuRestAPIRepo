@@ -2,8 +2,9 @@ package com.basic;
 
 
 
-import org.junit.Test;
-import org.testng.Assert;  
+import org.junit.Assert;
+import org.junit.Test; 
+  
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
